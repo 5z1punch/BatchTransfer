@@ -4,6 +4,7 @@ coverage
 coverage.json
 typechain
 typechain-types
+BatchTransfer.ts
 
 # Hardhat files
 cache
